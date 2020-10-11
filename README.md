@@ -1,1 +1,3 @@
-# VBA-Macro-Automated-Report-2
+# VBA Macro: Automated Report #2
+Similar to VBA Macro: Automated Report #1, the following VBA code creates the dynamic path (RPATH) and then scans Outlook for all emails received on the current week and looks for a specific attachment which is automatically sent by IBM COGNOS via email. Then it pastes the targeted attachment in an excel template, performs different modifications, and produces the final Report that will be saved as values into the RPATH and send via email witht he appropriate subject, date and destinataries. 
+<br> Note: Due to Privacy, the real Path and Emails have been shortened using 
